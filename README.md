@@ -1,2 +1,2 @@
 # InnovateX
-AI Base dropout prediction and counseling system
+AI Based dropout prediction and counselling system
