@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-SQLAlchemy
-pandas
-scikit-learn
-joblib
-apscheduler
-python-dotenv
